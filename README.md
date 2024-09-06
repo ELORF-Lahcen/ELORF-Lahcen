@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header-image-github.png)
 <h1 align="center">Hi 👋, I'm Lahcen ELORF</h1>
 <h3 align="center">A passionate Fullstack developer from Morocco</h3>
 
