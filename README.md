@@ -1,4 +1,3 @@
-![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Lahcen ELORF</h1>
 <!--
 **ELORF-Lahcen/ELORF-Lahcen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
