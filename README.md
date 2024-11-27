@@ -6,7 +6,8 @@
         <p align=center>
             <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350">
         </p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=1407F7&background=1D45FF00&size=32&center=true&vCenter=true&width=600&height=50&lines=HI+THERE+I'M+ELORF+Lahcen%F0%9F%91%8B;👨‍💻+Software+Engineer;💻+Full-Stack+Developer;🚀+DevOps+Enginner;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=1407F7&background=1D45FF00&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+ELORF+Lahcen%F0%9F%91%8B;👨‍💻+Software+Engineer;💻+Full-Stack+Developer;🚀+DevOps+Enginner;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00C9A7&background=1D45FF00&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+ELORF+Lahcen%F0%9F%91%8B;👨‍💻+Software+Engineer;💻+Full-Stack+Developer;🚀+DevOps+Enginner;" alt="Headline" />
         <br><br>
         <a href="https://github.com/benhammou-karim?tab=views">
             <img alt="views" title="View of my profile" src="https://komarev.com/ghpvc/?username=benhammou-karim&label=Views&color=1407F7&style=for-the-badge" />
