@@ -4,7 +4,7 @@
           <img src="./github-header-image.png" alt="Header" />
         </p>
         <p align=center>
-            <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400">
+            <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
         </p>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=1407F7&background=1D45FF00&size=32&center=true&vCenter=true&width=600&height=50&lines=HI+THERE+I'M+BENHAMMOU+KARIM%F0%9F%91%8B;SOFTWARE+ENGINEERING+STUDENT+;FULL-STACK+DEVELOPER;ALGORAND+BLOCKCHAIN+DEVELOPER;" alt="Headline" />
         <br><br>
