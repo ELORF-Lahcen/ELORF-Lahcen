@@ -17,9 +17,10 @@
         </p>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=6C63FF&background=1D45FF00&size=30&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B+there+I'm+ELORF+Lahcen;👨‍💻+Software+Engineer;💻+Full-Stack+Developer;🚀+DevOps+Enginner;" alt="Headline" />
     </div>
-    <hr>
+    <br>
 <div align=center>
         <h3>📫 HOW TO REACH ME</h3>
+    <hr>
     <p>
       <a href="https://www.linkedin.com/in/lahcenelorf">
     <img alt="LinkedIn" title="lahcenelorf" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -38,9 +39,10 @@
 </a>
     </p>
     </div>
-<hr>
+<br>
 <div align=center>
         <h3>👨‍💻 ABOUT ME</h3>
+    <hr>
         <br>
         <p>
             <strong>
