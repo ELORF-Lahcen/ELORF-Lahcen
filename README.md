@@ -27,4 +27,14 @@
 <a href="https://github.com/ELORF-Lahcen?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ELORF-Lahcen?color=6C63FF&labelColor=5B56E9&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
 </a>
+        <br><br>
+<a href="https://github.com/ELORF-Lahcen?tab=views">
+    <img alt="Profile%20views" title="View of my profile" src="https://komarev.com/ghpvc/?username=ELORF-Lahcen&label=Views&color=6C63FF&style=for-the-badge" />
+</a>
+<a href="https://github.com/ELORF-Lahcen?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=6C63FF&labelColor=6C63FF&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ELORF-Lahcen"/>
+</a>
+<a href="https://github.com/ELORF-Lahcen?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ELORF-Lahcen?color=6C63FF&labelColor=6C63FF&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+</a>
     </div>
