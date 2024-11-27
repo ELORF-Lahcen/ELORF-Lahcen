@@ -41,7 +41,6 @@
 <br>
 <div align=center>
         <h2>👨‍💻 ABOUT ME</h2>
-    <hr>
         <br>
         <p>
             <strong>
@@ -54,7 +53,6 @@
     </div>
 <div align=center>
         <h2>🛠️ I have already worked with the following technologies</h2>
-        <hr>
         <details align="" open> 
             <summary><b>Languages</b></summary>
             <br/>
@@ -188,6 +186,5 @@
     </div>
     <div align="center">
         <h2>📊 Contribution Activity</h2>
-        <hr>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elorf-lahcen" alt="elorf-lahcen" /></a> </p>
     </div>
