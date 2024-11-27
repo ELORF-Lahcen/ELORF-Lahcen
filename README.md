@@ -38,3 +38,16 @@
 </a>
     </p>
     </div>
+<hr>
+<div align=center>
+        <h3>👨‍💻 ABOUT ME</h3>
+        <br>
+        <p>
+            <strong>
+                :zap: A passionate Software Enginner from Morocco.<br>
+                :zap: I'm Full-stack & DevOps Enginner.<br>
+                :zap: In my free time, I read about developpement's technoligies.<br>
+           </strong>
+        </p>
+        <br>
+    </div>
