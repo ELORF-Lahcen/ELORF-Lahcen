@@ -184,6 +184,137 @@
         </details>
         <br>
     </div>
+    <hr>
+    <div align="center">
+    <h2>🛠️ I have already worked with the following technologies</h2>
+    <details open> 
+        <summary><b>Languages</b></summary>
+        <br/>
+        <p align="">
+            <a href="https://www.java.com/en/">
+                <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/-JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+            </a>
+            <a href="https://python.org/">
+                <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+            </a>
+            <a href="https://www.javascript.com/">
+                <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+            </a>
+            <a href="https://www.w3schools.com/c/">
+                <img alt="C#" src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+            </a>
+            <a href="https://www.w3schools.com/html/">
+                <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
+            </a>
+            <a href="https://www.w3schools.com/css/">
+                <img alt="CSS3" src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+            </a>
+        </p>
+    </details>
+
+    <details open> 
+        <summary><b>Frameworks</b></summary>
+        <br/>
+        <p align="">
+            <a href="https://spring.io/">
+                <img alt="Spring" src="https://img.shields.io/badge/Spring-177245?style=for-the-badge&logo=spring&logoColor=white"/>
+            </a>
+            <a href="https://reactjs.org/">
+                <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+            </a>
+            <a href="https://angular.io/">
+                <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+            </a>
+            <a href="https://nodejs.org/en/">
+                <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+            </a>
+            <a href="https://expressjs.com/">
+                <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+            </a>
+            <a href="https://redux.js.org/">
+                <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+            </a>
+        </p>
+    </details>
+
+    <details open> 
+        <summary><b>Databases</b></summary>
+        <br/>
+        <p align="">
+            <a href="https://www.mongodb.com/">
+                <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+            </a>
+            <a href="https://www.oracle.com/">
+                <img alt="Oracle" src="https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+            </a>
+            <a href="https://www.postgresql.org">
+                <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0175C2?style=for-the-badge&logo=postgresql&logoColor=white"/>
+            </a>
+            <a href="https://www.mysql.com/">
+                <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+            </a>
+        </p>
+    </details>
+
+    <details open> 
+        <summary><b>Mobile</b></summary>
+        <br/>
+        <p align="">
+            <a href="https://www.android.com/">
+                <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+            </a>
+        </p>
+    </details>
+
+    <details open> 
+        <summary><b>DevOps Tools</b></summary>
+        <br/>
+        <p align="">
+            <a href="https://www.ansible.com/">
+                <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+            </a>
+            <a href="https://www.jenkins.io/">
+                <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+            </a>
+            <a href="https://github.com/features/actions">
+                <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+            </a>
+            <a href="https://about.gitlab.com/">
+                <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+            </a>
+            <a href="https://www.docker.com/">
+                <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+            </a>
+            <a href="https://kubernetes.io/">
+                <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+            </a>
+        </p>
+    </details>
+
+    <details open> 
+        <summary><b>Hosting</b></summary>
+        <br/>
+        <p align="">
+            <a href="https://aws.amazon.com/">
+                <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+            </a>
+        </p>
+    </details>
+
+    <details open> 
+        <summary><b>Others</b></summary>
+        <br/>
+        <p align="">
+            <a href="https://www.atlassian.com/software/jira">
+                <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+            </a>
+            <a href="https://github.com/">
+                <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+        </p>
+    </details>
+</div>
+    <hr>
     <div align="center">
         <h2>📊 Contribution Activity</h2>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elorf-lahcen" alt="elorf-lahcen" /></a> </p>
