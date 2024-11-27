@@ -190,5 +190,5 @@
     <div align="center">
         <h3>📊 Contribution Activity</h3>
         <hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elorf-lahcen" alt="elorf-lahcen" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elorf-lahcen" alt="elorf-lahcen" /></a> </p>
     </div>
