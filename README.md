@@ -38,7 +38,7 @@
             </a>
         </p>
     <p>
-        <a href="https://www.linkedin.com/in/lahcenelorf">
+      <a href="https://www.linkedin.com/in/lahcenelorf">
     <img alt="LinkedIn" title="lahcenelorf" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://discordapp.com/users/1094696880530788402">
@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
 </a>
 <a href="https://twitter.com">
-    <img title="karimbenhammo12" src="https://img.shields.io/badge/🐦 Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
+    <img title="karimbenhammo12" src="https://img.shields.io/badge/White%20Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
 </a>
 <a href="https://www.instagram.com/">
     <img title="benhammou.karim" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
