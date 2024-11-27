@@ -19,7 +19,7 @@
     </div>
     <br>
 <div align=center>
-        <h3>📫 HOW TO REACH ME</h3>
+        <h2>📫 HOW TO REACH ME</h2>
     <hr>
     <p>
       <a href="https://www.linkedin.com/in/lahcenelorf">
@@ -41,7 +41,7 @@
     </div>
 <br>
 <div align=center>
-        <h3>👨‍💻 ABOUT ME</h3>
+        <h2>👨‍💻 ABOUT ME</h2>
     <hr>
         <br>
         <p>
@@ -54,7 +54,7 @@
         <br>
     </div>
 <div align=center>
-        <h3>🛠️ I have already worked with the following technologies</h3>
+        <h2>🛠️ I have already worked with the following technologies</h2>
         <hr>
         <details align="" open> 
             <summary><b>Languages</b></summary>
@@ -188,7 +188,7 @@
         <br>
     </div>
     <div align="center">
-        <h3>📊 Contribution Activity</h3>
+        <h2>📊 Contribution Activity</h2>
         <hr>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elorf-lahcen" alt="elorf-lahcen" /></a> </p>
     </div>
