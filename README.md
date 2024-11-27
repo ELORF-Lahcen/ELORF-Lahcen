@@ -19,24 +19,7 @@
     </div>
 <div align=center>
         <h3>📫 HOW TO REACH ME</h3>
-        <br>
-        <p align=center>
-            <a href="https://www.linkedin.com/in/lahcenelorf">
-                <img alt="LinkedIn" title="lahcenelorf" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-            </a>
-            <a href="https://discordapp.com/users/1094696880530788402">
-                <img title="lahcen on discord" src="https://img.shields.io/badge/Discord-2962FF?style=for-the-badge&logo=discord&logoColor=white" alt="example"/>
-            </a>	
-            <a href="mailto:lahcenelorf.619@gmail.com?subject=Github%20Contact&body=Hi%20Lahcen,">
-                <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
-            </a>
-            <a href="https://twitter.com">
-                <img title="karimbenhammo12" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-            </a>
-            <a href="https://www.instagram.com/">
-                <img title="benhammou.karim" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-            </a>
-        </p>
+        <br><hr>
     <p>
       <a href="https://www.linkedin.com/in/lahcenelorf">
     <img alt="LinkedIn" title="lahcenelorf" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
