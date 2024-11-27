@@ -54,8 +54,8 @@
         <br>
     </div>
 <div align=center>
-        <h1>🛠️ I have already worked with the following technologies</h1>
-        <br>
+        <h3>🛠️ I have already worked with the following technologies</h3>
+        <hr>
         <details align="" open> 
             <summary><b>Languages</b></summary>
             <br/>
