@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header-image-github.png" alt="Header" />
+  <img src="./github-header.png" alt="Header" />
 </p>
 <h1 align="center">Hi 👋, I'm Lahcen ELORF</h1>
 <h3 align="center">A passionate Fullstack developer from Morocco</h3>
