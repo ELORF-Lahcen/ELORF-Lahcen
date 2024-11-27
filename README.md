@@ -6,9 +6,7 @@
         <p align=center>
             <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350">
         </p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00C9A7&background=1D45FF00&size=30&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B+there+I'm+ELORF+Lahcen;👨‍💻+Software+Engineer;💻+Full-Stack+Developer;🚀+DevOps+Enginner;" alt="Headline" />
-        <br><br>
-<a href="https://github.com/ELORF-Lahcen?tab=views">
+        <a href="https://github.com/ELORF-Lahcen?tab=views">
     <img alt="Profile%20views" title="View of my profile" src="https://komarev.com/ghpvc/?username=ELORF-Lahcen&label=Views&color=6C63FF&style=for-the-badge" />
 </a>
 <a href="https://github.com/ELORF-Lahcen?tab=repositories&sort=stargazers">
@@ -17,4 +15,5 @@
 <a href="https://github.com/ELORF-Lahcen?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ELORF-Lahcen?color=6C63FF&labelColor=595c61&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
 </a>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00C9A7&background=1D45FF00&size=30&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B+there+I'm+ELORF+Lahcen;👨‍💻+Software+Engineer;💻+Full-Stack+Developer;🚀+DevOps+Enginner;" alt="Headline" />
     </div>
