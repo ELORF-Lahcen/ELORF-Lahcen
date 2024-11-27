@@ -13,7 +13,7 @@
         </a>
         <br><br>
         <a href="https://github.com/ELORF-Lahcen?tab=views">
-            <img alt="views" title="View of my profile" src="https://komarev.com/ghpvc/?username=ELORF-Lahcen&label=Views&color=brightgreen&style=for-the-badge" />
+            <img alt="Profile%20views" title="View of my profile" src="https://komarev.com/ghpvc/?username=ELORF-Lahcen&label=Views&color=brightgreen&style=for-the-badge" />
         </a>
         <a href="https://github.com/ELORF-Lahcen?tab=repositories&sort=stargazers">
             <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=212F3C&labelColor=566573&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ELORF-Lahcen"/>
