@@ -187,14 +187,13 @@
     <div align="center">
         <h2>📊 Contribution Activity</h2>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elorf-lahcen" alt="elorf-lahcen" /></a> </p>
-        <br>
         <div>
             <img src="https://github-readme-stats-smoky-sigma.vercel.app/api?username=ELORF-Lahcen&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="ELORF-Lahcen" width="550" />
         </div>
         <br>
         <div>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELORF-Lahcen&theme=algolia&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" width="550" />
-        </div>div>
+        </div>
         <br>
         <div>
             <img src="https://github-readme-stats-smoky-sigma.vercel.app/api/top-langs?username=ELORF-Lahcen&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="GitHub Most Used Languages" width="550" />
