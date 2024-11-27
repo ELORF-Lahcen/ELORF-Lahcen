@@ -19,7 +19,7 @@
     </div>
 <div align=center>
         <h3>📫 HOW TO REACH ME</h3>
-        <br><hr>
+        <hr>
     <p>
       <a href="https://www.linkedin.com/in/lahcenelorf">
     <img alt="LinkedIn" title="lahcenelorf" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
