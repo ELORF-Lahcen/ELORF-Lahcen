@@ -84,28 +84,25 @@
             <summary><b>Frameworks and Libraries</b></summary>
             <br/>
             <p align=""> 
-                <a href="https://spring.io/"> 
-                    <img alt="Spring" src="https://img.shields.io/badge/Spring-177245?style=for-the-badge&logo=spring&logoColor=white">
-                </a>
-                <a href="https://reactjs.org/"> 
-                    <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-                </a>
-                <a href="https://vuejs.org/"> 
-                    <img alt="VueJs" src="https://img.shields.io/badge/Vue.Js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
-                </a>
-                <a href="https://getbootstrap.com/"> 
-                    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-                </a>
-                <a href="https://laravel.com/"> 
-                    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-                </a>
-                <a href="https://redux.js.org/"> 
-                    <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-                </a>
-                <a href="https://nodejs.org/en/"> 
-                    <img alt="nodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-                </a>
-            </p>
+            <a href="https://spring.io/"> 
+                <img alt="Spring" src="https://img.shields.io/badge/Spring-177245?style=for-the-badge&logo=spring&logoColor=white">
+            </a>
+            <a href="https://reactjs.org/"> 
+                <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+            </a>
+            <a href="https://angular.io/"> 
+                <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+            </a>
+            <a href="https://tailwindcss.com/"> 
+                <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+            </a>
+            <a href="https://expressjs.com/"> 
+                <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+            </a>
+            <a href="https://nodejs.org/en/"> 
+                <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+            </a>
+        </p>
         </details>
         <details align="" open> 
             <summary><b>Databases & Cloud Hosting</b></summary>
