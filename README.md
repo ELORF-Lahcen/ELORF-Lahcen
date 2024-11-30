@@ -52,36 +52,33 @@
         <br>
     </div>
 <div align=center>
-        <h2>🛠️ I have already worked with the following technologies</h2>
+        <h2>🛠️ My Skills</h2>
         <details align="" open> 
             <summary><b>Languages</b></summary>
             <br/>
             <p align="">
-                <a href="https://www.w3schools.com/c/">
-                    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-                </a>
-                <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-                    <img alt="CSharp" src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-                </a>
-                <a href="https://www.java.com/en/">
-                    <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/-JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-                </a>
-                <a href="https://python.org/">
-                    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-                </a>
-                 <a href="https://www.w3schools.com/html/">
-                    <img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
-                </a>
-                <a href="https://www.w3schools.com/css/">
-                    <img alt="CSS" src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
-                </a>
-                <a href="https://www.javascript.com/">
-                    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-                </a>
-                <a href="https://php.net/">
-                    <img alt="PHP" src="https://img.shields.io/badge/php-474A8A?style=for-the-badge&logo=php&logoColor=white"/>
-                </a>
-            </p>
+    <a href="https://www.w3schools.com/html/">
+        <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
+    </a>
+    <a href="https://www.w3schools.com/css/">
+        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+    </a>
+    <a href="https://www.java.com/en/">
+        <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/-JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    </a>
+    <a href="https://python.org/">
+        <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+        <img alt="CSharp" src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+    </a>
+    <a href="https://www.w3schools.com/c/">
+        <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    </a>
+    <a href="https://www.javascript.com/">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    </a>
+</p>
         </details>
         <details align="" open> 
             <summary><b>Frameworks and Libraries</b></summary>
