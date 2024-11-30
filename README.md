@@ -105,6 +105,24 @@
         </p>
         </details>
         <details align="" open> 
+            <summary><b>Databases</b></summary>
+            <br/>
+            <p align=""> 
+                <a href="https://www.mysql.com/">
+                    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+                </a>
+                <a href="https://www.oracle.com/">
+                    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white">
+                </a>
+                <a href="https://www.postgresql.org">
+                    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0175C2?style=for-the-badge&logo=postgresql&logoColor=white">
+                </a>
+                <a href="https://www.mongodb.com/">
+                    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+                </a>
+            </p>
+        </details>
+        <details align="" open> 
             <summary><b>Databases & Cloud Hosting</b></summary>
             <br/>
             <p align=""> 
