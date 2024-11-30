@@ -46,7 +46,10 @@
             <strong>
                 :zap: A passionate Software Enginner from Morocco.<br>
                 :zap: I'm Full-stack & DevOps Enginner.<br>
-                :zap: In my free time, I read about developpement's technoligies.<br>
+                :zap: In my free time, I enjoy reading about development technologies and exploring new tools.<br>
+                :zap: I love building innovative solutions and tackling complex problems.<br>
+                :zap: I'm constantly learning and improving my skills to stay ahead in the tech world.<br>
+                :zap: I believe in the power of collaboration and teamwork in achieving great results.<br>
            </strong>
         </p>
         <br>
