@@ -57,7 +57,7 @@
 <div align=center>
         <h2>🛠️ My Skills</h2>
         <details align="" open> 
-            <summary><b>Languages</b></summary>
+            <summary><b>Programming Languages</b></summary>
             <br/>
             <p align="">
                 <a href="https://www.java.com/en/">
@@ -84,7 +84,7 @@
             </p>
         </details>
         <details align="" open> 
-            <summary><b>Frameworks and Libraries</b></summary>
+            <summary><b>Web Frameworks & Libraries</b></summary>
             <br/>
             <p align=""> 
             <a href="https://spring.io/"> 
