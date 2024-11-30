@@ -146,7 +146,16 @@
                 </a>
                 <a href="https://www.ansible.com/"> 
                     <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
-                </a>    
+                </a>
+                <a href="https://git-scm.com/"> 
+                    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+                </a>
+                <a href="https://github.com/"> 
+                    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+                </a>
+                <a href="https://about.gitlab.com/"> 
+                    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+                </a>
             </p>
         </details>
         <details align="" open> 
@@ -162,14 +171,8 @@
             <summary><b>Others</b></summary>
             <br/>
             <p align=""> 
-                <a href="https://git-scm.com/"> 
-                    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-                </a>
                 <a href="https://www.linux.org/"> 
                     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-                </a>
-                <a href="https://github.com/"> 
-                    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
                 </a>
                 <a href="https://www.atlassian.com/software/jira"> 
                     <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
