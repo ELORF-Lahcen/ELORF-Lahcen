@@ -132,14 +132,20 @@
             </p>
         </details>
         <details align="" open> 
-            <summary><b>Blockchain</b></summary>
+            <summary><b>DevOps</b></summary>
             <br/>
             <p align=""> 
-                <a href="https://www.algorand.com/">
-                    <img alt="Algorand" src="https://img.shields.io/badge/Algorand-00000F?style=for-the-badge&logo=algorand&logoColor=white">
+                <a href="https://www.docker.com/"> 
+                    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
                 </a>
-                <a href="https://ethereum.org/fr/">
-                    <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
+                <a href="https://aws.amazon.com/"> 
+                    <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+                </a>
+                <a href="https://kubernetes.io/"> 
+                    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+                </a>
+                <a href="https://www.ansible.com/"> 
+                    <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
                 </a>    
             </p>
         </details>
