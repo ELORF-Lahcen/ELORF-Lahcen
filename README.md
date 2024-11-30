@@ -162,29 +162,20 @@
             <summary><b>Others</b></summary>
             <br/>
             <p align=""> 
-                <a href="#">
+                <a href="https://git-scm.com/"> 
                     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
                 </a>
-                <a href="#">
+                <a href="https://www.linux.org/"> 
                     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
                 </a>
-                <a href="#">
-                    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+                <a href="https://github.com/"> 
+                    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
                 </a>
-                <a href="#">
-                    <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-34495E.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white">
+                <a href="https://www.atlassian.com/software/jira"> 
+                    <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
                 </a>
-                <a href="#">
-                    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-                </a>
-                <a href="#">
-                    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-                </a>
-                <a href="#">
-                    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-                </a>
-                <a href="#">
-                    <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+                <a href="#"> 
+                    <img alt="Agile" src="https://img.shields.io/badge/Agile_Methodology-0078D4?style=for-the-badge&logo=agile&logoColor=white">
                 </a>
             </p>
         </details>
